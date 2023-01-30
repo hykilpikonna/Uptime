@@ -3,29 +3,53 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+    # Hosted on ovh.hydev.org
+  - name: HyDEV - Pastebin
+    url: https://bin.hydev.org
+  - name: HyDEV - Lisho
+    url: https://sh.hydev.org
+    
+    # Hosted on daisy.hydev.org
+  - name: Daisy - Minecraft
+    url: https://mc.hydev.org/dynmap
+  - name: Daisy - Overleaf Self-Hosted
+    url: https://tex.hydev.org
+  - name: Daisy - Voice Tools Bot Backend
+    url: https://voice-backend.hydev.org
+    
+    # Package repository servers for MCPM
+  - name: MCPRS - Bell
+    url: https://mcprs-bell.hydev.org
+  - name: MCPRS - Luxembourg
+    url: https://mcprs-lux.hydev.org
+    
+    # Github Pages sites
+  - name: GH - Veracross Analyzer Demo
+    url: https://demo.vera.hydev.org
+  - name: GH - Arcaea Steps Calculator
+    url: https://arcaea.hydev.org
+  - name: GH - Base 3000
+    url: https://b3k.hydev.org
+  - name: GH - Cellular Automata
+    url: https://cellular.hydev.org
+  - name: GH - CSC110 Research Report
+    url: https://csc110.hydev.org/
+  - name: GH - Clash Proxy Config
+    url: https://clash.hydev.org/clash.yml
+  - name: GH - NyaaMemo Demo
+    url: https://nyaa.hydev.org/
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  cname: uptime.hydev.org
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: HyDEV Status
+  introTitle: "HyDEV Service Status"
+  introMessage: "This is a status page monitoring all HyDEV services, powered by [Upptime](https://github.com/upptime/upptime)"
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/hykilpikonna
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
