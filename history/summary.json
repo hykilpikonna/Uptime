@@ -113,18 +113,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server-bell-toronto-daisy",
     "status": "down",
-    "uptime": "10.60%",
-    "uptimeDay": "10.60%",
-    "uptimeWeek": "10.60%",
-    "uptimeMonth": "10.60%",
-    "uptimeYear": "10.60%",
+    "uptime": "9.19%",
+    "uptimeDay": "9.19%",
+    "uptimeWeek": "9.19%",
+    "uptimeMonth": "9.19%",
+    "uptimeYear": "9.19%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-30": 0
+      "2023-01-30": 1
     }
   },
   {
@@ -205,19 +205,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mcprs-lux.hydev.org.ico",
     "slug": "mcprs-luxembourg",
     "status": "up",
-    "uptime": "2.88%",
-    "uptimeDay": "2.88%",
-    "uptimeWeek": "2.88%",
-    "uptimeMonth": "2.88%",
-    "uptimeYear": "2.88%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 330,
     "timeDay": 330,
     "timeWeek": 330,
     "timeMonth": 330,
     "timeYear": 330,
-    "dailyMinutesDown": {
-      "2023-01-30": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "GH - Veracross Analyzer Demo",
