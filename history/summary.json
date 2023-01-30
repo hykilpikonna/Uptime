@@ -112,19 +112,19 @@
     "url": "https://daisy-ddns.hydev.org/data/",
     "icon": "https://icons.duckduckgo.com/ip3/daisy-ddns.hydev.org.ico",
     "slug": "server-bell-toronto-daisy",
-    "status": "down",
-    "uptime": "0.50%",
-    "uptimeDay": "0.50%",
-    "uptimeWeek": "0.50%",
-    "uptimeMonth": "0.50%",
-    "uptimeYear": "0.50%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.19%",
+    "uptimeDay": "0.19%",
+    "uptimeWeek": "0.19%",
+    "uptimeMonth": "0.19%",
+    "uptimeYear": "0.19%",
+    "time": 470,
+    "timeDay": 470,
+    "timeWeek": 470,
+    "timeMonth": 470,
+    "timeYear": 470,
     "dailyMinutesDown": {
-      "2023-01-30": 11
+      "2023-01-30": 104
     }
   },
   {
