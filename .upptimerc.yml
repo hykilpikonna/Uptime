@@ -17,11 +17,33 @@ sites:
   - name: Daisy - Voice Tools Bot Backend
     url: https://voice-backend.hydev.org
     
+    # Servers
+  - name: "Server - 🇨🇦 OVH Montreal"
+    check: "tcp-ping"
+    url: ovh.hydev.org
+    port: 22
+  - name: "Server - 🇨🇦 Bell Toronto 'Daisy'"
+    check: "tcp-ping"
+    url: daisy-ddns.hydev.org
+    port: 22
+  - name: "Server - 🇱🇺 GCore Luxembourg"
+    check: "tcp-ping"
+    url: lux.hydev.org
+    port: 22
+  - name: "Server - 🇯🇵 Vultr Tokyo"
+    check: "tcp-ping"
+    url: nix.hydev.org
+    port: 22
+  - name: "Server - 🇨🇳 Aliyun 杭州"
+    check: "tcp-ping"
+    url: cn.hydev.org
+    port: 22
+    
     # Package repository servers for MCPM
   - name: MCPRS - Bell
     url: https://mcprs-bell.hydev.org
   - name: MCPRS - Luxembourg
-    url: https://mcprs-lux.hydev.org
+    url: http://mcprs-lux.hydev.org
     
     # Github Pages sites
   - name: GH - Veracross Analyzer Demo
