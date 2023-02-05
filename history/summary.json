@@ -40,54 +40,60 @@
     "url": "https://mc.hydev.org/dynmap",
     "icon": "https://icons.duckduckgo.com/ip3/mc.hydev.org.ico",
     "slug": "daisy-minecraft",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 386,
     "timeDay": 593,
     "timeWeek": 386,
     "timeMonth": 386,
     "timeYear": 386,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-05": 1
+    }
   },
   {
     "name": "Daisy - Overleaf Self-Hosted",
     "url": "https://tex.hydev.org",
     "icon": "https://icons.duckduckgo.com/ip3/tex.hydev.org.ico",
     "slug": "daisy-overleaf-self-hosted",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 385,
     "timeDay": 505,
     "timeWeek": 385,
     "timeMonth": 385,
     "timeYear": 385,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-05": 1
+    }
   },
   {
     "name": "Daisy - Voice Tools Bot Backend",
     "url": "https://voice-backend.hydev.org",
     "icon": "https://icons.duckduckgo.com/ip3/voice-backend.hydev.org.ico",
     "slug": "daisy-voice-tools-bot-backend",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 293,
-    "timeDay": 362,
-    "timeWeek": 293,
-    "timeMonth": 293,
-    "timeYear": 293,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 280,
+    "timeDay": 247,
+    "timeWeek": 280,
+    "timeMonth": 280,
+    "timeYear": 280,
+    "dailyMinutesDown": {
+      "2023-02-05": 1
+    }
   },
   {
     "name": "Server - 🇨🇦 OVH Montreal",
@@ -112,18 +118,19 @@
     "url": "https://daisy-ddns.hydev.org/data/",
     "icon": "https://icons.duckduckgo.com/ip3/daisy-ddns.hydev.org.ico",
     "slug": "server-bell-toronto-daisy",
-    "status": "up",
-    "uptime": "98.65%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.65%",
-    "uptimeMonth": "98.65%",
-    "uptimeYear": "98.65%",
+    "status": "down",
+    "uptime": "98.82%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "98.82%",
+    "uptimeMonth": "98.82%",
+    "uptimeYear": "98.82%",
     "time": 242,
     "timeDay": 360,
     "timeWeek": 242,
     "timeMonth": 242,
     "timeYear": 242,
     "dailyMinutesDown": {
+      "2023-02-05": 1,
       "2023-01-30": 104
     }
   },
@@ -186,9 +193,9 @@
     "url": "https://mcprs-bell.hydev.org",
     "icon": "https://icons.duckduckgo.com/ip3/mcprs-bell.hydev.org.ico",
     "slug": "mcprs-bell",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -197,7 +204,9 @@
     "timeWeek": 207,
     "timeMonth": 207,
     "timeYear": 207,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-05": 0
+    }
   },
   {
     "name": "MCPRS - Luxembourg",
