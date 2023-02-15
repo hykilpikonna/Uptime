@@ -40,10 +40,10 @@
     "url": "https://mc.hydev.org/dynmap",
     "icon": "https://icons.duckduckgo.com/ip3/mc.hydev.org.ico",
     "slug": "daisy-minecraft",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 431,
@@ -51,17 +51,19 @@
     "timeWeek": 453,
     "timeMonth": 431,
     "timeYear": 431,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-15": 1
+    }
   },
   {
     "name": "Daisy - Overleaf Self-Hosted",
     "url": "https://tex.hydev.org",
     "icon": "https://icons.duckduckgo.com/ip3/tex.hydev.org.ico",
     "slug": "daisy-overleaf-self-hosted",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 414,
@@ -69,25 +71,29 @@
     "timeWeek": 392,
     "timeMonth": 414,
     "timeYear": 414,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-15": 1
+    }
   },
   {
     "name": "Daisy - Voice Tools Bot Backend",
     "url": "https://voice-backend.hydev.org",
     "icon": "https://icons.duckduckgo.com/ip3/voice-backend.hydev.org.ico",
     "slug": "daisy-voice-tools-bot-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 316,
-    "timeDay": 325,
-    "timeWeek": 328,
-    "timeMonth": 316,
-    "timeYear": 316,
-    "dailyMinutesDown": {}
+    "time": 313,
+    "timeDay": 276,
+    "timeWeek": 320,
+    "timeMonth": 313,
+    "timeYear": 313,
+    "dailyMinutesDown": {
+      "2023-02-15": 1
+    }
   },
   {
     "name": "Server - 🇨🇦 OVH Montreal",
@@ -112,18 +118,19 @@
     "url": "https://daisy-ddns.hydev.org/data/",
     "icon": "https://icons.duckduckgo.com/ip3/daisy-ddns.hydev.org.ico",
     "slug": "server-bell-toronto-daisy",
-    "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.55%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.53%",
-    "uptimeYear": "99.53%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.55%",
     "time": 245,
     "timeDay": 107,
     "timeWeek": 255,
     "timeMonth": 245,
     "timeYear": 245,
     "dailyMinutesDown": {
+      "2023-02-15": 0,
       "2023-01-30": 104
     }
   },
