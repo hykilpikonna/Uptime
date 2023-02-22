@@ -8,6 +8,8 @@ sites:
     url: https://bin.hydev.org
   - name: HyDEV - Lisho
     url: https://sh.hydev.org
+  - name: HyDEV - CDN
+    url: https://cdn.hydev.org/backup/
     
     # Hosted on daisy.hydev.org
   - name: Daisy - Minecraft
@@ -16,6 +18,12 @@ sites:
     url: https://tex.hydev.org
   - name: Daisy - Voice Tools Bot Backend
     url: https://voice-backend.hydev.org
+  - name: Daisy - Owncast Video Streaming
+    url: https://cast.hydev.org
+  - name: Daisy - Grafana System Monitoring
+    url: https://gf.hydev.org
+  - name: Daisy - ArchLinux Repo
+    url: https://arch.hydev.org
     
     # Servers
   - name: "Server - 🇨🇦 OVH Montreal"
