@@ -58,18 +58,20 @@
     "url": "https://mc.hydev.org/dynmap",
     "icon": "https://icons.duckduckgo.com/ip3/mc.hydev.org.ico",
     "slug": "daisy-minecraft",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 438,
-    "timeDay": 568,
-    "timeWeek": 458,
-    "timeMonth": 438,
-    "timeYear": 438,
-    "dailyMinutesDown": {}
+    "time": 436,
+    "timeDay": 496,
+    "timeWeek": 448,
+    "timeMonth": 436,
+    "timeYear": 436,
+    "dailyMinutesDown": {
+      "2023-02-22": 0
+    }
   },
   {
     "name": "Daisy - Overleaf Self-Hosted",
