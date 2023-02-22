@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tex.hydev.org.ico",
     "slug": "daisy-overleaf-self-hosted",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 400,
     "timeDay": 493,
     "timeWeek": 359,
     "timeMonth": 400,
     "timeYear": 400,
     "dailyMinutesDown": {
-      "2023-02-22": 1
+      "2023-02-22": 6
     }
   },
   {
@@ -79,18 +79,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/voice-backend.hydev.org.ico",
     "slug": "daisy-voice-tools-bot-backend",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 308,
     "timeDay": 263,
     "timeWeek": 286,
     "timeMonth": 308,
     "timeYear": 308,
     "dailyMinutesDown": {
-      "2023-02-22": 1
+      "2023-02-22": 6
     }
   },
   {
@@ -117,18 +117,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/daisy-ddns.hydev.org.ico",
     "slug": "server-bell-toronto-daisy",
     "status": "down",
-    "uptime": "99.68%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.68%",
+    "uptime": "99.66%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.66%",
     "time": 252,
     "timeDay": 339,
     "timeWeek": 270,
     "timeMonth": 252,
     "timeYear": 252,
     "dailyMinutesDown": {
-      "2023-02-22": 0,
+      "2023-02-22": 6,
       "2023-01-30": 104
     }
   },
