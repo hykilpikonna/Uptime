@@ -4,19 +4,19 @@
     "url": "https://bin.hydev.org",
     "icon": "https://icons.duckduckgo.com/ip3/bin.hydev.org.ico",
     "slug": "hy-dev-pastebin",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 261,
-    "timeDay": 116,
-    "timeWeek": 264,
+    "timeDay": 186,
+    "timeWeek": 263,
     "timeMonth": 261,
     "timeYear": 261,
     "dailyMinutesDown": {
-      "2023-02-23": 0
+      "2023-02-23": 21
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://sh.hydev.org",
     "icon": "https://icons.duckduckgo.com/ip3/sh.hydev.org.ico",
     "slug": "hy-dev-lisho",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 252,
-    "timeDay": 86,
-    "timeWeek": 227,
+    "timeDay": 144,
+    "timeWeek": 230,
     "timeMonth": 252,
     "timeYear": 252,
     "dailyMinutesDown": {
-      "2023-02-23": 0
+      "2023-02-23": 21
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://cdn.hydev.org/backup/",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.hydev.org.ico",
     "slug": "hy-dev-cdn",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 160,
-    "timeDay": 89,
-    "timeWeek": 160,
-    "timeMonth": 160,
-    "timeYear": 160,
+    "status": "up",
+    "uptime": "98.64%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "98.64%",
+    "uptimeMonth": "98.64%",
+    "uptimeYear": "98.64%",
+    "time": 183,
+    "timeDay": 143,
+    "timeWeek": 183,
+    "timeMonth": 183,
+    "timeYear": 183,
     "dailyMinutesDown": {
-      "2023-02-23": 0
+      "2023-02-23": 21
     }
   },
   {
@@ -290,18 +290,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mcprs-lux.hydev.org.ico",
     "slug": "mcprs-luxembourg",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.94%",
+    "uptimeDay": "98.54%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 275,
     "timeDay": 209,
     "timeWeek": 278,
     "timeMonth": 275,
     "timeYear": 275,
     "dailyMinutesDown": {
-      "2023-02-23": 0
+      "2023-02-23": 21
     }
   },
   {
