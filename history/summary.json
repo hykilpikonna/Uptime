@@ -235,9 +235,9 @@
     "url": "nix.hydev.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server-vultr-tokyo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -246,7 +246,9 @@
     "timeWeek": 146,
     "timeMonth": 146,
     "timeYear": 150,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-07": 0
+    }
   },
   {
     "name": "Server - 🇨🇳 Aliyun 杭州",
@@ -292,18 +294,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mcprs-lux.hydev.org.ico",
     "slug": "mcprs-luxembourg",
     "status": "down",
-    "uptime": "66.43%",
+    "uptime": "64.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "60.98%",
-    "uptimeYear": "66.43%",
+    "uptimeMonth": "58.22%",
+    "uptimeYear": "64.89%",
     "time": 275,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 277,
     "timeYear": 275,
     "dailyMinutesDown": {
-      "2023-03-07": 12,
+      "2023-03-07": 1221,
       "2023-03-06": 1440,
       "2023-03-05": 1440,
       "2023-03-04": 1440,
