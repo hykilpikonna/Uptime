@@ -1,7 +1,7 @@
 url: lux.hydev.org
-status: down
-code: 0
+status: up
+code: 200
 responseTime: 0
-lastUpdated: 2023-03-09T16:29:54.465Z
+lastUpdated: 2023-03-09T16:40:29.353Z
 startTime: Mon Jan 30 2023 15:38:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
