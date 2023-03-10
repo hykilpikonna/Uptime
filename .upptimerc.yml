@@ -36,10 +36,6 @@ sites:
     check: "tcp-ping"
     url: lux.hydev.org
     port: 22
-  - name: "Server - 🇯🇵 Vultr Tokyo"
-    check: "tcp-ping"
-    url: nix.hydev.org
-    port: 22
   - name: "Server - 🇨🇳 Aliyun 杭州"
     check: "tcp-ping"
     url: cn.hydev.org
