@@ -217,10 +217,10 @@
     "url": "lux.hydev.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server-g-core-luxembourg",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 155,
@@ -228,7 +228,9 @@
     "timeWeek": 140,
     "timeMonth": 161,
     "timeYear": 155,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-18": 1
+    }
   },
   {
     "name": "Server - 🇨🇳 Aliyun 杭州",
@@ -274,18 +276,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mcprs-lux.hydev.org.ico",
     "slug": "mcprs-luxembourg",
     "status": "down",
-    "uptime": "50.67%",
+    "uptime": "49.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "24.82%",
-    "uptimeYear": "50.67%",
+    "uptimeMonth": "22.09%",
+    "uptimeYear": "49.78%",
     "time": 275,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 273,
     "timeYear": 275,
     "dailyMinutesDown": {
-      "2023-03-18": 11,
+      "2023-03-18": 1205,
       "2023-03-17": 1440,
       "2023-03-16": 1440,
       "2023-03-15": 1440,
