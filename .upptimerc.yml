@@ -31,7 +31,7 @@ sites:
     url: ovh.hydev.org
     port: 22
   - name: "Server - 🇨🇦 Bell Toronto 'Daisy'"
-    url: https://daisy-ddns.hydev.org/data/
+    url: https://daisy-ddns.hydev.org/health/
   - name: "Server - 🇱🇺 GCore Luxembourg"
     check: "tcp-ping"
     url: lux.hydev.org
