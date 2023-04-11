@@ -238,7 +238,7 @@
     "status": "up",
     "uptime": "72.31%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "29.80%",
+    "uptimeWeek": "29.87%",
     "uptimeMonth": "35.80%",
     "uptimeYear": "72.31%",
     "time": 235,
@@ -298,11 +298,11 @@
     "url": "cn.hydev.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server-aliyun",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 251,
     "timeDay": 269,
@@ -310,7 +310,7 @@
     "timeMonth": 249,
     "timeYear": 251,
     "dailyMinutesDown": {
-      "2023-04-11": 4,
+      "2023-04-11": 0,
       "2023-03-30": 17,
       "2023-03-02": 20
     }
@@ -357,7 +357,7 @@
     "timeMonth": 0,
     "timeYear": 275,
     "dailyMinutesDown": {
-      "2023-04-11": 707,
+      "2023-04-11": 713,
       "2023-04-10": 1440,
       "2023-04-09": 1440,
       "2023-04-08": 1440,
