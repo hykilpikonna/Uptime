@@ -1,7 +1,7 @@
 url: https://voice-backend.hydev.org
-status: up
-code: 200
-responseTime: 439
-lastUpdated: 2023-09-11T23:03:01.042Z
+status: down
+code: 502
+responseTime: 451
+lastUpdated: 2023-09-12T14:44:31.533Z
 startTime: 2023-01-30T15:32:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
