@@ -455,7 +455,7 @@
     "timeMonth": 0,
     "timeYear": 275,
     "dailyMinutesDown": {
-      "2023-09-20": 228,
+      "2023-09-20": 229,
       "2023-09-19": 1440,
       "2023-09-18": 1440,
       "2023-09-17": 1440,
@@ -690,19 +690,19 @@
     "url": "https://arcaea.hydev.org",
     "icon": "https://icons.duckduckgo.com/ip3/arcaea.hydev.org.ico",
     "slug": "gh-arcaea-steps-calculator",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 116,
-    "timeDay": 137,
-    "timeWeek": 104,
-    "timeMonth": 128,
+    "timeDay": 88,
+    "timeWeek": 96,
+    "timeMonth": 125,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2023-09-20": 3
+      "2023-09-20": 4
     }
   },
   {
@@ -710,19 +710,19 @@
     "url": "https://b3k.hydev.org",
     "icon": "https://icons.duckduckgo.com/ip3/b3k.hydev.org.ico",
     "slug": "gh-base-3000",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 114,
-    "timeDay": 291,
-    "timeWeek": 155,
-    "timeMonth": 134,
-    "timeYear": 114,
+    "time": 115,
+    "timeDay": 275,
+    "timeWeek": 168,
+    "timeMonth": 138,
+    "timeYear": 115,
     "dailyMinutesDown": {
-      "2023-09-20": 1
+      "2023-09-20": 2
     }
   },
   {
