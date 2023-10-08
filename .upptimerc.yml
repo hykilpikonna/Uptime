@@ -43,9 +43,7 @@ sites:
     
     # Package repository servers for MCPM
   - name: MCPRS - Bell
-    url: https://mcprs-bell.hydev.org
-  - name: MCPRS - Luxembourg
-    url: http://mcprs-lux.hydev.org
+    url: https://mcprs.hydev.org
     
     # Github Pages sites
   - name: GH - Veracross Analyzer Demo
