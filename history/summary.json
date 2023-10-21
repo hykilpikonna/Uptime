@@ -311,19 +311,19 @@
     "url": "ovh.hydev.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server-ovh-montreal",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 79,
-    "timeDay": 98,
-    "timeWeek": 84,
-    "timeMonth": 82,
+    "timeDay": 62,
+    "timeWeek": 77,
+    "timeMonth": 81,
     "timeYear": 79,
     "dailyMinutesDown": {
-      "2023-10-21": 0
+      "2023-10-21": 4
     }
   },
   {
