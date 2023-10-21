@@ -4,10 +4,10 @@
     "url": "https://bin.hydev.org",
     "icon": "https://icons.duckduckgo.com/ip3/bin.hydev.org.ico",
     "slug": "hy-dev-pastebin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "97.88%",
-    "uptimeWeek": "99.70%",
+    "uptimeDay": "97.84%",
+    "uptimeWeek": "99.69%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.89%",
     "time": 289,
@@ -16,7 +16,7 @@
     "timeMonth": 248,
     "timeYear": 289,
     "dailyMinutesDown": {
-      "2023-10-21": 30,
+      "2023-10-21": 31,
       "2023-05-17": 324,
       "2023-05-04": 30,
       "2023-02-23": 21
