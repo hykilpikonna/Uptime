@@ -24,6 +24,10 @@ sites:
     url: https://gf.hydev.org
   - name: Daisy - ArchLinux Repo
     url: https://arch.hydev.org
+
+    # Hosted on HyDEV Cloud
+  - name: HyDEV Cloud - AquaDX Server
+    url: http://aquadx.hydev.org
     
     # Servers
   - name: "Server - 🇨🇦 OVH Montreal"
