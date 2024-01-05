@@ -322,19 +322,19 @@
     "url": "http://aquadx.hydev.org",
     "icon": "https://icons.duckduckgo.com/ip3/aquadx.hydev.org.ico",
     "slug": "hy-dev-cloud-aqua-dx-server",
-    "status": "down",
-    "uptime": "91.14%",
-    "uptimeDay": "91.14%",
-    "uptimeWeek": "91.14%",
-    "uptimeMonth": "91.14%",
-    "uptimeYear": "91.14%",
-    "time": 201,
-    "timeDay": 201,
-    "timeWeek": 201,
-    "timeMonth": 201,
-    "timeYear": 201,
+    "status": "up",
+    "uptime": "49.83%",
+    "uptimeDay": "49.83%",
+    "uptimeWeek": "49.83%",
+    "uptimeMonth": "49.83%",
+    "uptimeYear": "49.83%",
+    "time": 214,
+    "timeDay": 214,
+    "timeWeek": 214,
+    "timeMonth": 214,
+    "timeYear": 214,
     "dailyMinutesDown": {
-      "2024-01-05": 0
+      "2024-01-05": 5
     }
   },
   {
