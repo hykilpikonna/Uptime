@@ -322,9 +322,9 @@
     "url": "http://aquadx.hydev.org",
     "icon": "https://icons.duckduckgo.com/ip3/aquadx.hydev.org.ico",
     "slug": "hy-dev-cloud-aqua-dx-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -333,7 +333,9 @@
     "timeWeek": 221,
     "timeMonth": 233,
     "timeYear": 233,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-16": 0
+    }
   },
   {
     "name": "Server - 🇨🇦 OVH Montreal",
