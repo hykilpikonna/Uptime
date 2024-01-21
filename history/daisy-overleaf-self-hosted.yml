@@ -1,7 +1,7 @@
 url: https://tex.hydev.org
-status: up
-code: 200
-responseTime: 299
-lastUpdated: 2024-01-20T23:03:03.853Z
+status: down
+code: 502
+responseTime: 242
+lastUpdated: 2024-01-21T22:04:09.055Z
 startTime: 2023-01-30T15:32:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
