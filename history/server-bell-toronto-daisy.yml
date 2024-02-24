@@ -1,7 +1,7 @@
 url: https://daisy-ddns.hydev.org/health/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-02-24T10:15:53.956Z
+status: up
+code: 200
+responseTime: 58
+lastUpdated: 2024-02-24T10:24:18.176Z
 startTime: 2023-01-30T15:38:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
