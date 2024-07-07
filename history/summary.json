@@ -6,9 +6,9 @@
     "slug": "hy-dev-pastebin",
     "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "96.81%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "96.42%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.87%",
     "time": 284,
     "timeDay": 214,
@@ -16,7 +16,7 @@
     "timeMonth": 278,
     "timeYear": 265,
     "dailyMinutesDown": {
-      "2024-07-07": 46,
+      "2024-07-07": 52,
       "2024-02-29": 396,
       "2023-11-13": 205,
       "2023-10-21": 30
@@ -29,9 +29,9 @@
     "slug": "hy-dev-lisho",
     "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "96.81%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "96.42%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.88%",
     "time": 304,
     "timeDay": 265,
@@ -39,7 +39,7 @@
     "timeMonth": 288,
     "timeYear": 274,
     "dailyMinutesDown": {
-      "2024-07-07": 46,
+      "2024-07-07": 52,
       "2024-02-29": 396,
       "2023-11-13": 192
     }
@@ -51,9 +51,9 @@
     "slug": "hy-dev-cdn",
     "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "96.81%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "96.42%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.88%",
     "time": 259,
     "timeDay": 233,
@@ -61,7 +61,7 @@
     "timeMonth": 272,
     "timeYear": 257,
     "dailyMinutesDown": {
-      "2024-07-07": 46,
+      "2024-07-07": 52,
       "2024-02-29": 396,
       "2023-11-13": 176
     }
@@ -110,14 +110,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "74.05%",
+    "uptimeYear": "74.04%",
     "time": 311,
     "timeDay": 148,
     "timeWeek": 186,
     "timeMonth": 207,
     "timeYear": 297,
     "dailyMinutesDown": {
-      "2024-07-07": 637,
+      "2024-07-07": 643,
       "2024-07-06": 1440,
       "2024-07-05": 1440,
       "2024-07-04": 1440,
@@ -369,19 +369,19 @@
     "url": "ovh.hydev.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server-ovh-montreal",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 60,
-    "timeDay": 22,
+    "timeDay": 23,
     "timeWeek": 27,
     "timeMonth": 29,
-    "timeYear": 54,
+    "timeYear": 53,
     "dailyMinutesDown": {
-      "2024-07-07": 0
+      "2024-07-07": 6
     }
   },
   {
