@@ -4,9 +4,9 @@
     "url": "https://bin.hydev.org",
     "icon": "https://icons.duckduckgo.com/ip3/bin.hydev.org.ico",
     "slug": "hy-dev-pastebin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "98.06%",
+    "uptimeDay": "98.05%",
     "uptimeWeek": "99.72%",
     "uptimeMonth": "96.56%",
     "uptimeYear": "99.59%",
@@ -119,7 +119,7 @@
     "timeMonth": 239,
     "timeYear": 292,
     "dailyMinutesDown": {
-      "2024-08-06": 1020,
+      "2024-08-06": 1036,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
       "2024-08-03": 1440,
@@ -402,18 +402,16 @@
     "slug": "server-ovh-montreal",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 57,
     "timeDay": 49,
     "timeWeek": 48,
     "timeMonth": 32,
     "timeYear": 50,
-    "dailyMinutesDown": {
-      "2024-08-06": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Server - 🇨🇦 Bell Toronto 'Daisy'",
