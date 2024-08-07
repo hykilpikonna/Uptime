@@ -4,14 +4,14 @@ repo: Uptime # The name of this repository
 
 sites:
     # Hosted on ovh.hydev.org
-  - name: HyDEV - Pastebin
-    url: https://bin.hydev.org
   - name: HyDEV - Lisho
     url: https://sh.hydev.org
   - name: HyDEV - CDN
     url: https://cdn.hydev.org/backup/
     
     # Hosted on daisy.hydev.org
+  - name: Daisy - Whisper
+    url: https://whisper0.hydev.org/health
   - name: Daisy - Minecraft
     url: https://mc.hydev.org/dynmap
   - name: Daisy - Overleaf Self-Hosted
@@ -28,6 +28,10 @@ sites:
     # Hosted on HyDEV Cloud
   - name: HyDEV Cloud - AquaDX Server
     url: http://aquadx.hydev.org
+
+    # Hosted on Camellia
+  - name: Camellia - Sekai LLM
+    url: https://sekai.aquadx.net/llm/health
     
     # Servers
   - name: "Server - 🇨🇦 OVH Montreal"
