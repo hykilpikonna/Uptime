@@ -1,7 +1,7 @@
 url: https://sekai.aquadx.net/tts/options
-status: up
-code: 200
-responseTime: 310
-lastUpdated: 2024-08-10T13:07:18.214Z
+status: down
+code: 502
+responseTime: 440
+lastUpdated: 2024-08-10T17:28:49.953Z
 startTime: 2024-08-10T00:17:20.648Z
 generator: Upptime <https://github.com/upptime/upptime>
