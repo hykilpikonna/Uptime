@@ -32,6 +32,8 @@ sites:
     # Hosted on Camellia
   - name: Camellia - Sekai LLM
     url: https://sekai.aquadx.net/llm/health
+  - name: Camellia - Sekai TTS
+    url: https://sekai.aquadx.net/tts/options
     
     # Servers
   - name: "Server - 🇨🇦 OVH Montreal"
