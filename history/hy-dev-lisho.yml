@@ -1,7 +1,7 @@
 url: https://sh.hydev.org
-status: up
-code: 200
-responseTime: 421
-lastUpdated: 2024-10-21T23:03:29.406Z
+status: down
+code: 502
+responseTime: 559
+lastUpdated: 2024-10-22T21:07:12.363Z
 startTime: 2023-01-30T15:32:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
