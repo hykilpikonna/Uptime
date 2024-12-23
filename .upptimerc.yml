@@ -14,8 +14,6 @@ sites:
     url: https://whisper0.hydev.org/health
   - name: Daisy - Minecraft
     url: https://mc.hydev.org/dynmap
-  - name: Daisy - Overleaf Self-Hosted
-    url: https://tex.hydev.org
   - name: Daisy - Voice Tools Bot Backend
     url: https://voice-backend.hydev.org
   - name: Daisy - Owncast Video Streaming
@@ -24,6 +22,8 @@ sites:
     url: https://gf.hydev.org
   - name: Daisy - ArchLinux Repo
     url: https://arch.hydev.org
+  - name: Daisy - Slither Link
+    url: https://slither0.hydev.org
 
     # Hosted on HyDEV Cloud
   - name: HyDEV Cloud - AquaDX Server
