@@ -1,7 +1,7 @@
 url: https://sekai.aquadx.net/llm/health
-status: up
-code: 200
-responseTime: 788
-lastUpdated: 2025-01-20T06:38:38.322Z
+status: down
+code: 502
+responseTime: 12754
+lastUpdated: 2025-01-20T06:56:33.376Z
 startTime: 2024-08-07T20:12:41.080Z
 generator: Upptime <https://github.com/upptime/upptime>
