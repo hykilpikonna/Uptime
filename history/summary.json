@@ -545,19 +545,19 @@
     "url": "cn.hydev.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server-aliyun",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 229,
-    "timeDay": 202,
-    "timeWeek": 209,
-    "timeMonth": 218,
-    "timeYear": 228,
+    "timeDay": 223,
+    "timeWeek": 213,
+    "timeMonth": 219,
+    "timeYear": 229,
     "dailyMinutesDown": {
-      "2025-04-18": 1
+      "2025-04-18": 4
     }
   },
   {
