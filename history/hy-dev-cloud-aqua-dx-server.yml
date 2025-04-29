@@ -1,7 +1,7 @@
 url: http://aquadx.hydev.org
-status: up
-code: 200
-responseTime: 630
-lastUpdated: 2025-04-28T23:03:44.210Z
+status: down
+code: 500
+responseTime: 247
+lastUpdated: 2025-04-29T00:28:42.235Z
 startTime: 2024-01-05T02:43:09.352Z
 generator: Upptime <https://github.com/upptime/upptime>
