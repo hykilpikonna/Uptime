@@ -26,6 +26,8 @@ sites:
     url: https://slither0.hydev.org
   - name: Daisy - 301 Backend
     url: https://301-bk.hydev.org
+  - name: Daisy - Meetsphere
+    url: https://meet.hydev.org
 
     # Hosted on HyDEV Cloud
   - name: HyDEV Cloud - AquaDX Server
