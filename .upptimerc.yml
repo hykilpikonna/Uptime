@@ -28,9 +28,11 @@ sites:
     url: https://301-bk.hydev.org
   - name: Daisy - Meetsphere
     url: https://meet.hydev.org
+  - name: Daisy - AquaNet
+    url: https://aquadx.net
 
-    # Hosted on HyDEV Cloud
-  - name: HyDEV Cloud - AquaDX Server
+    # Hosted on Aster
+  - name: Aster - AquaDX Server
     url: http://aquadx.hydev.org
 
     # Hosted on Camellia
