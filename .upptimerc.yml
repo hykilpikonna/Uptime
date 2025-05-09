@@ -52,10 +52,6 @@ sites:
     check: "tcp-ping"
     url: lux.hydev.org
     port: 22
-  - name: "Server - 🇨🇳 Aliyun 杭州"
-    check: "tcp-ping"
-    url: cn.hydev.org
-    port: 22
     
     # Package repository servers for MCPM
   - name: MCPRS - Bell
