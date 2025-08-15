@@ -48,12 +48,12 @@
     "status": "up",
     "uptime": "97.14%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.79%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "97.08%",
     "time": 469,
     "timeDay": 283,
-    "timeWeek": 335,
+    "timeWeek": 332,
     "timeMonth": 548,
     "timeYear": 471,
     "dailyMinutesDown": {
@@ -105,12 +105,12 @@
     "status": "up",
     "uptime": "99.03%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.79%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.71%",
     "time": 456,
     "timeDay": 332,
-    "timeWeek": 406,
+    "timeWeek": 414,
     "timeMonth": 501,
     "timeYear": 503,
     "dailyMinutesDown": {
@@ -387,7 +387,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sekai.aquadx.net.ico",
     "slug": "camellia-sekai-llm",
     "status": "up",
-    "uptime": "71.71%",
+    "uptime": "71.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.58%",
@@ -779,10 +779,10 @@
     "url": "https://csc110.hydev.org/",
     "icon": "https://icons.duckduckgo.com/ip3/csc110.hydev.org.ico",
     "slug": "gh-csc-110-research-report",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 157,
@@ -790,7 +790,9 @@
     "timeWeek": 267,
     "timeMonth": 186,
     "timeYear": 154,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-15": 1
+    }
   },
   {
     "name": "GH - Clash Proxy Config",
