@@ -387,7 +387,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sekai.aquadx.net.ico",
     "slug": "camellia-sekai-llm",
     "status": "up",
-    "uptime": "71.72%",
+    "uptime": "71.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.58%",
@@ -779,19 +779,19 @@
     "url": "https://csc110.hydev.org/",
     "icon": "https://icons.duckduckgo.com/ip3/csc110.hydev.org.ico",
     "slug": "gh-csc-110-research-report",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 157,
-    "timeDay": 100,
-    "timeWeek": 267,
-    "timeMonth": 186,
-    "timeYear": 154,
+    "timeDay": 174,
+    "timeWeek": 265,
+    "timeMonth": 188,
+    "timeYear": 155,
     "dailyMinutesDown": {
-      "2025-08-15": 1
+      "2025-08-15": 11
     }
   },
   {
