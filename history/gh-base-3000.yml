@@ -1,7 +1,7 @@
 url: https://b3k.hydev.org
-status: up
-code: 200
-responseTime: 164
-lastUpdated: 2025-11-17T23:03:42.430Z
+status: down
+code: 500
+responseTime: 70
+lastUpdated: 2025-11-18T11:55:25.642Z
 startTime: 2023-01-30T15:32:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
