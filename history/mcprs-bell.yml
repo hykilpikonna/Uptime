@@ -1,7 +1,7 @@
 url: https://mcprs.hydev.org
-status: up
-code: 200
-responseTime: 339
-lastUpdated: 2025-11-18T14:34:40.092Z
+status: down
+code: 500
+responseTime: 158
+lastUpdated: 2025-11-18T14:42:51.827Z
 startTime: 2023-01-30T15:32:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
