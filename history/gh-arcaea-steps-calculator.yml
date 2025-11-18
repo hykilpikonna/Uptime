@@ -1,7 +1,7 @@
 url: https://arcaea.hydev.org
-status: up
-code: 200
-responseTime: 262
-lastUpdated: 2025-11-18T15:19:59.025Z
+status: down
+code: 500
+responseTime: 107
+lastUpdated: 2025-11-18T16:10:00.521Z
 startTime: 2023-01-30T15:32:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
