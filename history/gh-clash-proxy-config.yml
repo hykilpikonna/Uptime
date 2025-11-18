@@ -1,7 +1,7 @@
 url: https://clash.hydev.org/clash.yml
-status: down
-code: 500
-responseTime: 203
-lastUpdated: 2025-11-18T11:39:37.533Z
+status: up
+code: 200
+responseTime: 68
+lastUpdated: 2025-11-18T11:50:21.959Z
 startTime: 2023-01-30T15:32:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
