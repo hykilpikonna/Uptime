@@ -1,7 +1,7 @@
 url: https://csc110.hydev.org/
-status: up
-code: 200
-responseTime: 197
-lastUpdated: 2025-11-18T12:15:12.691Z
+status: down
+code: 500
+responseTime: 131
+lastUpdated: 2025-11-18T12:28:42.719Z
 startTime: 2023-01-30T15:32:17.000Z
 generator: Upptime <https://github.com/upptime/upptime>
