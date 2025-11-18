@@ -1,7 +1,7 @@
 url: https://aquadx.net
-status: up
-code: 200
-responseTime: 233
-lastUpdated: 2025-11-18T11:50:14.272Z
+status: down
+code: 500
+responseTime: 120
+lastUpdated: 2025-11-18T11:55:20.509Z
 startTime: 2025-04-30T10:12:48.282Z
 generator: Upptime <https://github.com/upptime/upptime>
