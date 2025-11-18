@@ -1,7 +1,7 @@
 url: https://cellular.hydev.org
-status: down
-code: 500
-responseTime: 49
-lastUpdated: 2025-11-18T12:47:21.328Z
+status: up
+code: 200
+responseTime: 181
+lastUpdated: 2025-11-18T14:34:43.211Z
 startTime: 2023-01-30T15:32:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
