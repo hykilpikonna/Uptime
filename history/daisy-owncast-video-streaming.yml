@@ -1,7 +1,7 @@
 url: https://cast.hydev.org
-status: up
-code: 200
-responseTime: 700
-lastUpdated: 2026-01-05T23:04:03.384Z
+status: down
+code: 522
+responseTime: 20020
+lastUpdated: 2026-01-06T15:11:12.451Z
 startTime: 2023-02-22T02:12:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
