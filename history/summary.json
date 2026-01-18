@@ -26,9 +26,9 @@
     "slug": "hy-dev-cdn",
     "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.97%",
     "time": 414,
     "timeDay": 297,
@@ -36,7 +36,7 @@
     "timeMonth": 1191,
     "timeYear": 453,
     "dailyMinutesDown": {
-      "2026-01-18": 0,
+      "2026-01-18": 8,
       "2025-11-18": 153
     }
   },
@@ -241,7 +241,7 @@
     "timeMonth": 235,
     "timeYear": 318,
     "dailyMinutesDown": {
-      "2026-01-18": 12,
+      "2026-01-18": 20,
       "2026-01-17": 1440,
       "2026-01-16": 1440,
       "2026-01-15": 1440,
@@ -351,8 +351,8 @@
     "status": "up",
     "uptime": "79.88%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "18.30%",
-    "uptimeMonth": "2.30%",
+    "uptimeWeek": "18.37%",
+    "uptimeMonth": "2.32%",
     "uptimeYear": "79.88%",
     "time": 832,
     "timeDay": 394,
@@ -498,7 +498,7 @@
     "timeMonth": 577,
     "timeYear": 729,
     "dailyMinutesDown": {
-      "2026-01-18": 12,
+      "2026-01-18": 20,
       "2026-01-17": 1440,
       "2026-01-16": 1440,
       "2026-01-15": 1440,
