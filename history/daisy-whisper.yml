@@ -1,7 +1,7 @@
 url: https://whisper0.hydev.org/health
-status: up
-code: 200
-responseTime: 374
-lastUpdated: 2026-01-23T23:04:34.401Z
+status: down
+code: 502
+responseTime: 313
+lastUpdated: 2026-01-24T08:26:59.393Z
 startTime: 2024-08-07T20:12:36.045Z
 generator: Upptime <https://github.com/upptime/upptime>
