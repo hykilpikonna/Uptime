@@ -1,7 +1,7 @@
 url: https://amaoke.app
-status: up
-code: 200
-responseTime: 1514
-lastUpdated: 2026-09-09T23:13:20.230Z
+status: down
+code: 502
+responseTime: 99
+lastUpdated: 2026-09-10T05:29:38.099Z
 startTime: 2026-04-27T06:07:30.496Z
 generator: Upptime <https://github.com/upptime/upptime>
